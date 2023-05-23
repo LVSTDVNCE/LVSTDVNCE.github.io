@@ -1,0 +1,43 @@
+  a:hover {
+    color:#00539F;
+  }
+
+  html {
+    font-size: 10px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+    font-family: 'Kanit', sans-serif;
+  }
+
+  h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+  
+  p, li, a {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+
+  html {
+    background-color:antiquewhite;
+  }
+
+  body {
+    width: 757px;
+    margin: 0 auto;
+    background-color:bisque;
+    padding: 0 20px 20px 20px;
+    border: 4px solid black;
+  }
+
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color:chocolate;
+    text-shadow: 3px 3px 1px black;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
